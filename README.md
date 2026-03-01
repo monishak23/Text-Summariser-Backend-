@@ -9,6 +9,9 @@ This web application allows users to input a block of text and generate a concis
 - Express
 - Gemini API
 
+# Learnings
+ - Integrate LLM api to BE.
+
 # Image
 <img width="1913" height="1019" alt="image" src="https://github.com/user-attachments/assets/abd8dafb-7f58-489e-9317-626882dcfeec" />
 
