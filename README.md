@@ -10,7 +10,9 @@ This web application allows users to input a block of text and generate a concis
 - Gemini API
 
 # Learnings
- - Integrate LLM api to BE.
+ - Integrated Gemini 2.5 Flash
+ - Implemented a secure backend proxy for API communication, protecting sensitive credentials via environment variables.
+ - The best model for this is gemini 2.5 flash and is cost effective, also stable.
 
 # Image
 <img width="1913" height="1019" alt="image" src="https://github.com/user-attachments/assets/abd8dafb-7f58-489e-9317-626882dcfeec" />
